@@ -1,0 +1,44 @@
+{
+    "pizza":[
+        {
+            "id":1,
+            "name":"sucuklu",
+            "description":"sucuk, peynir",
+            "category":"pizza"
+        },
+        {
+            "id":2,
+            "name":"margarita",
+            "description":"pizza sosu, mozzarella peyniri, domates",
+            "category":"pizza"
+        }
+    ],
+    "drink":[
+        {
+            "id":1,
+            "name":"pepsi",
+            "description":"pepsiiiiii",
+            "category":"drink"
+        },
+        {
+            "id":2,
+            "name":"sprite",
+            "description":"gazzozzz olma efsane ol",
+            "category":"drink"
+        }
+    ],
+    "dessert":[
+        {
+            "id":1,
+            "name":"sutlac",
+            "description":"pirinc, sut",
+            "category":"dessert"
+        },
+        {
+            "id":2,
+            "name":"sufle",
+            "description":"cukulata, un, sut",
+            "category":"dessert"
+        }
+    ]
+}

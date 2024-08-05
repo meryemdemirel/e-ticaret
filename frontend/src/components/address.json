@@ -1,0 +1,44 @@
+{
+    "address": [
+        {
+            "street": "22 Rue du Grenier Saint-Lazare",
+            "postalCode": "7500334513412341",
+            "city": "Paris",
+            "countryCode": "FRA",
+            "country": "France",
+            "text": "asdfasdfasdfasdfasdfe\n75003 Paris\nFrance"
+        },
+        {
+            "street": "22 Rue du Grenier Saint-Lazare",
+            "postalCode": "7500312341234243",
+            "city": "Paris",
+            "countryCode": "FRA",
+            "country": "France",
+            "text": "sssssssssssssssssse\n75003 Paris\nFrance"
+        },
+        {
+            "street": "22 Rue du Grenier Saint-Lazare",
+            "postalCode": "7500312341234243",
+            "city": "Paris",
+            "countryCode": "FRA",
+            "country": "France",
+            "text": "dddddddddddddddddd\n75003 Paris\nFrance"
+        },
+        {
+            "street": "22 Rue du Grenier Saint-Lazare",
+            "postalCode": "7500312341234243",
+            "city": "Paris",
+            "countryCode": "FRA",
+            "country": "France",
+            "text": "fffffffffffffffffe\n75003 Paris\nFrance"
+        },
+        {
+            "street": "22 Rue du Grenier Saint-Lazare",
+            "postalCode": "75003",
+            "city": "Paris",
+            "countryCode": "FRA",
+            "country": "France",
+            "text": "gggggggggggggggggge\n75003 Paris\nFrance"
+        }
+    ]
+}
